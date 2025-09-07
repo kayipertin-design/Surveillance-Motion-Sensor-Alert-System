@@ -46,7 +46,7 @@ When motion is detected → Smart Lamp turns ON and Camera activates.
 ---
 
 ## 🎥 Demo Video
-[Click here to watch the demo](demo.gif)  
+[Click here to watch the demo](demo.gif)   
 *(Open demo.gif in this repository to view the working.)*
 
 ---
