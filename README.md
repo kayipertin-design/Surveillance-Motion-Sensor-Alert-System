@@ -38,15 +38,16 @@ This project implements an IoT-based motion detection system where a motion dete
 
 ## ⚡ Simulated Circuit
 The basic topology connects Motion Detector, Camera, and Smart Lamp to the Home Gateway.  
-When motion is detected → Smart Lamp turns ON and Camera activates.  
+When motion is detected → Smart Lamp turns ON and Camera activates. 
 
-![Circuit Screenshot] (Screenshot 2025-09-07 215202.png)
+![Circuit Screenshot](Screenshot 2025-09-07 215202.png)/open in repository
+
 
 ---
 
 ## 🎥 Demo Video
-[Click here to watch the demo](demo.mp4)  
-*(Open demo.mp4 in this repository to view the working simulation.)*
+[Click here to watch the demo](demo.gif)  
+*(Open demo.gif in this repository to view the working.)*
 
 ---
 
