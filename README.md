@@ -25,14 +25,14 @@ This project implements an IoT-based motion detection system where a motion dete
 
 ### *Software*
 - Cisco Packet Tracer (IoT Workspace)  
-- Screen Recorder (OBS Studio / Xbox Game Bar)  
+- Screen Recorder   
 - GitHub (for project submission)  
 ### *Simulated IoT Hardware (in Packet Tracer)*
 - Motion Detector  
 - IoT Camera  
-- Smart Lamp / Smart Alarm  
+- Smart Lamp 
 - Home Gateway (or Router + Switch)  
-- PC (for monitoring/logs)  
+- Tablet (for monitoring/logs)  
 
 ---
 
